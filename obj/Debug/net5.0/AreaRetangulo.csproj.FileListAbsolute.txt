@@ -1,0 +1,5 @@
+/home/workplace/Área de Trabalho/eu/area de um retangulo/AreaRetangulo/obj/Debug/net5.0/AreaRetangulo.csproj.AssemblyReference.cache
+/home/workplace/Área de Trabalho/eu/area de um retangulo/AreaRetangulo/obj/Debug/net5.0/AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/workplace/Área de Trabalho/eu/area de um retangulo/AreaRetangulo/obj/Debug/net5.0/AreaRetangulo.AssemblyInfoInputs.cache
+/home/workplace/Área de Trabalho/eu/area de um retangulo/AreaRetangulo/obj/Debug/net5.0/AreaRetangulo.AssemblyInfo.cs
+/home/workplace/Área de Trabalho/eu/area de um retangulo/AreaRetangulo/obj/Debug/net5.0/AreaRetangulo.csproj.CoreCompileInputs.cache
